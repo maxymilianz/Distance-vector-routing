@@ -6,4 +6,4 @@ number of network interfaces n
 
 n lines, each of which includes:
 
-	local IP address in CIDR notation, " distance ", distance (number)
+local IP address in CIDR notation, " distance ", distance (number)
